@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return "batman returns the broken lunchbox"
+    return "batman rules"
